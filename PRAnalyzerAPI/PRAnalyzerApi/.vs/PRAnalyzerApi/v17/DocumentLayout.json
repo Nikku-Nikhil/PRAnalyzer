@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\services\\analyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:services\\analyzerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\controllers\\prcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:controllers\\prcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\services\\developerstatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:services\\developerstatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\dtos\\issuedomainscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:dtos\\issuedomainscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\dtos\\recentanalysisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:dtos\\recentanalysisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\dtos\\developerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:dtos\\developerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\dtos\\weeklytrendsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:dtos\\weeklytrendsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\controllers\\developercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:controllers\\developercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\dtos\\pranalysisresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:dtos\\pranalysisresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\models\\pranalyzerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:models\\pranalyzerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\models\\pullrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:models\\pullrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\dtos\\teamstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:dtos\\teamstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\interfaces\\ideveloperstatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:interfaces\\ideveloperstatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|d:\\dc\\finalproject\\pranalyzerapi\\pranalyzerapi\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BD5A27-5D7B-4F92-AA6B-18C28A613571}|PRAnalyzerApi.csproj|solutionrelative:models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Interfaces\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDashboardService.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Interfaces\\IDashboardService.cs",
+              "RelativeToolTip": "Interfaces\\IDashboardService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:29:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IssueDomainScoreDto.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\IssueDomainScoreDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\IssueDomainScoreDto.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\IssueDomainScoreDto.cs",
+              "RelativeToolTip": "DTOs\\IssueDomainScoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:30:48.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalyzerService.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\AnalyzerService.cs",
+              "RelativeDocumentMoniker": "Services\\AnalyzerService.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\AnalyzerService.cs",
+              "RelativeToolTip": "Services\\AnalyzerService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:53:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PRController.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Controllers\\PRController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PRController.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Controllers\\PRController.cs",
+              "RelativeToolTip": "Controllers\\PRController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAEwCsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:41:20.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Services\\DashboardService.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\DashboardService.cs",
+              "RelativeToolTip": "Services\\DashboardService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAqwKYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:30:01.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeveloperStatsService.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\DeveloperStatsService.cs",
+              "RelativeDocumentMoniker": "Services\\DeveloperStatsService.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\DeveloperStatsService.cs",
+              "RelativeToolTip": "Services\\DeveloperStatsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:38:44.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\GitHubService.cs",
+              "RelativeDocumentMoniker": "Services\\GitHubService.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Services\\GitHubService.cs",
+              "RelativeToolTip": "Services\\GitHubService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:52:03.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecentAnalysisDto.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\RecentAnalysisDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RecentAnalysisDto.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\RecentAnalysisDto.cs",
+              "RelativeToolTip": "DTOs\\RecentAnalysisDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:44:10.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeveloperStatsDto.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\DeveloperStatsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DeveloperStatsDto.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\DeveloperStatsDto.cs",
+              "RelativeToolTip": "DTOs\\DeveloperStatsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:36:37.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:31:18.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeeklyTrendsDto.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\WeeklyTrendsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\WeeklyTrendsDto.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\WeeklyTrendsDto.cs",
+              "RelativeToolTip": "DTOs\\WeeklyTrendsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:41:24.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeveloperController.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Controllers\\DeveloperController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeveloperController.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Controllers\\DeveloperController.cs",
+              "RelativeToolTip": "Controllers\\DeveloperController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:39:30.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PRAnalysisResponseDto.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\PRAnalysisResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PRAnalysisResponseDto.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\PRAnalysisResponseDto.cs",
+              "RelativeToolTip": "DTOs\\PRAnalysisResponseDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA5wAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:39:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PRAnalyzerDbContext.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Models\\PRAnalyzerDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\PRAnalyzerDbContext.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Models\\PRAnalyzerDbContext.cs",
+              "RelativeToolTip": "Models\\PRAnalyzerDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:46:49.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:44:12.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Models\\Developer.cs",
+              "RelativeDocumentMoniker": "Models\\Developer.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Models\\Developer.cs",
+              "RelativeToolTip": "Models\\Developer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:46:47.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PullRequest.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Models\\PullRequest.cs",
+              "RelativeDocumentMoniker": "Models\\PullRequest.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Models\\PullRequest.cs",
+              "RelativeToolTip": "Models\\PullRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:10:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeamStatsDto.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\TeamStatsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TeamStatsDto.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\DTOs\\TeamStatsDto.cs",
+              "RelativeToolTip": "DTOs\\TeamStatsDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA3wAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:28:40.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDeveloperStatsService.cs",
+              "DocumentMoniker": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Interfaces\\IDeveloperStatsService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDeveloperStatsService.cs",
+              "ToolTip": "D:\\DC\\Finalproject\\PRAnalyzerAPI\\PRAnalyzerApi\\Interfaces\\IDeveloperStatsService.cs",
+              "RelativeToolTip": "Interfaces\\IDeveloperStatsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:38:17.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

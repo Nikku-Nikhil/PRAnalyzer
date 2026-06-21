@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+
+# .NET / C#
+bin/
+obj/
+*.user
+appsettings.Development.json
+
+# SQLite Database
+*.db
+*.db-shm
+*.db-wal
+pr_analyzer.db
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.userosscache
+*.sln.docstates

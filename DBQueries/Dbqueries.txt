@@ -1,0 +1,60 @@
+-- Use or create database
+IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = 'PRAnalyzerDb')
+BEGIN
+    CREATE DATABASE PRAnalyzerDb;
+END
+GO
+
+USE PRAnalyzerDb;
+GO
+
+-- Developers table
+CREATE TABLE Developers
+(
+    Id INT IDENTITY PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(200) NULL
+);
+GO
+
+-- Pull Requests table
+CREATE TABLE PullRequests
+(
+    Id INT IDENTITY PRIMARY KEY,
+    PrUrl NVARCHAR(500) NOT NULL,
+    CreatedAt DATETIME2 DEFAULT GETDATE(),
+    DeveloperId INT NULL FOREIGN KEY REFERENCES Developers(Id)
+);
+GO
+
+-- Files changed in PR
+CREATE TABLE PRFiles
+(
+    Id INT IDENTITY PRIMARY KEY,
+    PullRequestId INT NOT NULL FOREIGN KEY REFERENCES PullRequests(Id),
+    FileName NVARCHAR(500) NOT NULL,
+    Content NVARCHAR(MAX) NOT NULL
+);
+GO
+
+-- Issue domains / categories
+CREATE TABLE IssueDomains
+(
+    Id INT IDENTITY PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL,        -- e.g., SQL Injection, Security, Code Quality
+    Description NVARCHAR(500) NULL
+);
+GO
+
+-- Diagnostics / Issues found in PR files
+CREATE TABLE PRDiagnostics
+(
+    Id INT IDENTITY PRIMARY KEY,
+    PRFileId INT NOT NULL FOREIGN KEY REFERENCES PRFiles(Id),
+    DiagnosticId NVARCHAR(100) NOT NULL,
+    Message NVARCHAR(MAX) NOT NULL,
+    Severity NVARCHAR(50) NOT NULL,
+    LineNumber INT NULL,
+    DomainId INT NOT NULL FOREIGN KEY REFERENCES IssueDomains(Id)
+);
+GO
